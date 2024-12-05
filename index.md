@@ -1,6 +1,6 @@
 ## Data 
 [3breeds.txt](https://github.com/Cholokiwi/cholokiwi.github.io/blob/master/3breeds.txt) 
-
+[finaldata](https://github.com/Cholokiwi/cholokiwi.github.io/blob/master/finaldata.zip)
 
 
 ## Bienvenidos! Welcome!
